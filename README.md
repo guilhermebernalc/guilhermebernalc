@@ -1,8 +1,7 @@
 ### Olá sou o Guilherme Bernal ☕
-<p>Cursando Análise e Desenvolvimento de Sistemas 
-</p>
+<p>Cursando Análise e Desenvolvimento de Sistemas</p>
 
-
+#
 ### Redes Sociais ✉
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gmarianobernalc@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermebernal/)
@@ -24,7 +23,7 @@
 #      
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebernalc&show_icons=true&theme=dracula)
 #
-<p><em>"Digito, logo existo"</em></p>
+<p><em>"Digito, logo existo" - Algum nerd como eu</em></p>
        
        
        
